@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\domzadanie\bin\Debug\net7.0\domzadanie.exe
+C:\Users\User\Desktop\domzadanie\bin\Debug\net7.0\domzadanie.deps.json
+C:\Users\User\Desktop\domzadanie\bin\Debug\net7.0\domzadanie.runtimeconfig.json
+C:\Users\User\Desktop\domzadanie\bin\Debug\net7.0\domzadanie.dll
+C:\Users\User\Desktop\domzadanie\bin\Debug\net7.0\domzadanie.pdb
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.AssemblyInfo.cs
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.dll
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\refint\domzadanie.dll
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.pdb
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\domzadanie.genruntimeconfig.cache
+C:\Users\User\Desktop\domzadanie\obj\Debug\net7.0\ref\domzadanie.dll
